@@ -40,7 +40,7 @@ function main() {
     ];
 
     const defaultOptions = {
-        updateUrl:           true,
+        updateUrl:           false,
         showHighlighter:     true,
         wordWrap:            true,
         showErrors:          true,
